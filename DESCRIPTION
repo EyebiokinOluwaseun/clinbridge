@@ -1,5 +1,5 @@
 Package: clinbridge
-Title: Generalized Clinical Data Wrangling and SAS-to-R Validation
+Title: Generalized Infrastructure for Clinical Data Validation and SAS-to-R Transition
 Version: 0.0.1
 Authors@R: person("Eyebiokin", "Oluwaseun", email = "oluwaseundaniel95@gmail.com", role = c("aut", "cre"))
 Description: Provides generalized infrastructure for clinical trial data cleaning and validation. Bridges the gap for legacy software users by providing validated verbs for subject-level extremes, date coercion, and CDISC-compliant status derivation.
